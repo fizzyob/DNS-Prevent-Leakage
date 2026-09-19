@@ -36,24 +36,7 @@ ruleset=🎶 网易音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
-
-;TikTok 专用分流 - 必须放在国外媒体和节点选择之前
-ruleset=🎵 TikTok,[]DOMAIN,api.snapkit.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tiktok.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tiktokv.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tiktokv.us
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tiktokw.us
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tiktokcdn.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tiktokcdn-us.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tiktokcdn-eu.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,byteoversea.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,ibytedtos.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,ipstatp.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,muscdn.com
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,musical.ly
-ruleset=🎵 TikTok,[]DOMAIN-SUFFIX,tik-tokapi.com
 ruleset=🎵 TikTok,https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/mihomo/Rules/TikTok.list
-
 ruleset=🎯 GitHub,https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/mihomo/Rules/Github.list
 ruleset=🕺 抖音,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/DouYin/DouYin.list
 ruleset=📹 油管视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
@@ -66,9 +49,9 @@ ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
-ruleset=🚀 手动切换,[]DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-ruleset=🚀 手动切换,[]DOMAIN-SUFFIX,services.googleapis.cn
-ruleset=🚀 手动切换,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
+ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+ruleset=🚀 节点选择,[]DOMAIN-SUFFIX,services.googleapis.cn
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
 ruleset=🐟 漏网之鱼,[]FINAL
